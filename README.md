@@ -65,6 +65,7 @@ $$A \times B = \{(a,b) \mid a\in A,\ b\in B\}$$
 
 **Свойства:** не коммутативно ($A\times B \neq B\times A$ в общем случае), дистрибутивно относительно $\cup,\cap$.
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/56680a80-6bdc-4d2b-b81a-ad6f4e5594d6" />
 
 ---
 
